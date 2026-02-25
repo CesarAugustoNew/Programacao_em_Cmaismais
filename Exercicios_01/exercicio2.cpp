@@ -17,7 +17,7 @@ int main() {
 
     ano80 = anoAtual + (80 - idade);
 
-    cout << "Voce fara 80 anos no ano de: " << ano80 << endl;
+    cout << "Voce tera 80 anos no ano de: " << ano80 << endl;
 
     system("pause");
 
