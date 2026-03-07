@@ -1,0 +1,22 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+    setlocale(LC_ALL,"Portuguese_Brazil");
+
+    string texto = "Este paragrafo é muito grande e se for fazer uma busca em todo o 
+    texto vai demorar muito tempo de processamento, por isso esse programa para ao encontrar 
+    o primeiro x";
+
+    for (int i = 0; i < texto.length(); ++i) {
+        cout << texto[i];
+        if (texto[i] == 'x') {
+            cout << "letra 'x' encontrada, finalizando..." << endl;
+            break;
+        }
+    }
+    cout << "texto finalizado." << endl;
+    system("pause");
+}
