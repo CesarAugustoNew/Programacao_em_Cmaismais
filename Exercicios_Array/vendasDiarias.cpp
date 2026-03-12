@@ -1,8 +1,8 @@
 /*
 ===============================================================
 Programa: Análise de Vendas
-Autor: Daniel
-Data: 08/04/2025
+Autor: Cesar
+Data: 10/03/2026
 Descrição: Análise de Vendas por dia da semana.
 ===============================================================
 */
