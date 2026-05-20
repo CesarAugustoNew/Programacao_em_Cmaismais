@@ -3,6 +3,11 @@
 Este repositório reúne exercícios, exemplos práticos e projetos desenvolvidos durante o curso de Programação em C++ pelo SENAI.
 O objetivo é demonstrar a evolução no aprendizado da linguagem, desde conceitos básicos até estruturas mais avançadas.
 
+---
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bc2b00b3-32ee-4489-96f6-3a4d302876b9" />
+
+---
 # 📚 Conteúdos Abordados
 
 Durante o curso, foram trabalhados os seguintes temas:
